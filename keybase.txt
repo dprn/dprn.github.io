@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/disabledalpha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.darioprandi.com
+  * I am disabledalpha (https://keybase.io/disabledalpha) on keybase.
+  * I have a public key ASBhnvOh5l7fi89bw7Rj2b5t5muzeGfWbY_FI7f_NNopiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201eb4fdb40e4e012c121c8568a50f9056063803de40ea01169dd1716d644413790a",
+      "host": "keybase.io",
+      "kid": "0120619ef3a1e65edf8bcf5bc3b463d9be6de66bb37867d66d8fc523b7ff34da29890a",
+      "uid": "ded0ea8b85759e54bc28f585a18d5f19",
+      "username": "disabledalpha"
+    },
+    "merkle_root": {
+      "ctime": 1586425414,
+      "hash": "7f0708ca47dfcdf29e8a8c1dd3d058760c7458d5fd60dddee0528ac41db356c610eaf3d61704e0e52aaa49399d18b652f14bdb2e0b263b1faa2ecbaf04065422",
+      "hash_meta": "a7e5366483335372e1eaf7de2ed9eee9d45c2b6963693a3f81cfcafb201a8f09",
+      "seqno": 15858744
+    },
+    "service": {
+      "entropy": "daJpRNiIHANz7OEO1xGPUBDH",
+      "hostname": "www.darioprandi.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586425431,
+  "expire_in": 504576000,
+  "prev": "747d328b5a93c03ce4bd2d534dc0db9f13d0a57477e18ef95bd9cbab617c6c56",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYZ7zoeZe34vPW8O0Y9m+beZrs3hn1m2PxSO3/zTaKYkKp3BheWxvYWTESpcCHsQgdH0yi1qTwDzkvS1TTcDbnxPQpXR34Y75W9nLq2F8bFbEIAfkmBWY2YKcxm3M4uOC7MtdsN7Y3LdcQup/3Qe1OnOAAgHCo3NpZ8RAFmLuIxr2jNjdQg+KHjwlOVZYVm98uml25WZPhEhu00QvkgGGHQRivLZN2TTEhXzq/srRrOxwNalCGsMLzjSmB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID2jHmb8wA10Xqa9rvFydwmUKFuRTOt50SOWRUAgNN9Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/disabledalpha
+
+==================================================================
