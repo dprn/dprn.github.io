@@ -1,0 +1,146 @@
+==================================================================
+https://keybase.io/disabledalpha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.darioprandi.com
+  * I am disabledalpha (https://keybase.io/disabledalpha) on keybase.
+  * I have a public key ASBhnvOh5l7fi89bw7Rj2b5t5muzeGfWbY_FI7f_NNopiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201eb4fdb40e4e012c121c8568a50f9056063803de40ea01169dd1716d644413790a",
+      "host": "keybase.io",
+      "kid": "0120619ef3a1e65edf8bcf5bc3b463d9be6de66bb37867d66d8fc523b7ff34da29890a",
+      "uid": "ded0ea8b85759e54bc28f585a18d5f19",
+      "username": "disabledalpha"
+    },
+    "merkle_root": {
+      "ctime": 1586425414,
+      "hash": "7f0708ca47dfcdf29e8a8c1dd3d058760c7458d5fd60dddee0528ac41db356c610eaf3d61704e0e52aaa49399d18b652f14bdb2e0b263b1faa2ecbaf04065422",
+      "hash_meta": "a7e5366483335372e1eaf7de2ed9eee9d45c2b6963693a3f81cfcafb201a8f09",
+      "seqno": 15858744
+    },
+    "service": {
+      "entropy": "daJpRNiIHANz7OEO1xGPUBDH",
+      "hostname": "www.darioprandi.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586425431,
+  "expire_in": 504576000,
+  "prev": "747d328b5a93c03ce4bd2d534dc0db9f13d0a57477e18ef95bd9cbab617c6c56",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYZ7zoeZe34vPW8O0Y9m+beZrs3hn1m2PxSO3/zTaKYkKp3BheWxvYWTESpcCHsQgdH0yi1qTwDzkvS1TTcDbnxPQpXR34Y75W9nLq2F8bFbEIAfkmBWY2YKcxm3M4uOC7MtdsN7Y3LdcQup/3Qe1OnOAAgHCo3NpZ8RAFmLuIxr2jNjdQg+KHjwlOVZYVm98uml25WZPhEhu00QvkgGGHQRivLZN2TTEhXzq/srRrOxwNalCGsMLzjSmB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEID2jHmb8wA10Xqa9rvFydwmUKFuRTOt50SOWRUAgNN9Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/disabledalpha
+
+==================================================================
+
+==================================================================
+https://keybase.io/disabledalpha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dprn.github.io
+  * I am disabledalpha (https://keybase.io/disabledalpha) on keybase.
+  * I have a public key with fingerprint CDEB 3C42 9AEE 6754 FB5D  15C1 B9E1 7366 5153 4626
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201eb4fdb40e4e012c121c8568a50f9056063803de40ea01169dd1716d644413790a",
+      "fingerprint": "cdeb3c429aee6754fb5d15c1b9e1736651534626",
+      "host": "keybase.io",
+      "key_id": "b9e1736651534626",
+      "kid": "01011534d6bcb785cf1920268b24c01c194e39a37059ed1de75571350f94bb301ce90a",
+      "uid": "ded0ea8b85759e54bc28f585a18d5f19",
+      "username": "disabledalpha"
+    },
+    "merkle_root": {
+      "ctime": 1586425553,
+      "hash_meta": "584b82a616e07a36ba5444f50d07068625b97c5a55ef94a220ebe454884e11ab",
+      "seqno": 15858757
+    },
+    "revoke": {
+      "sig_ids": [
+        "9f9094ec7e7a12295895d96c03b840fbbeac168493d08e730fc6acb29e4b56ea0f"
+      ]
+    },
+    "service": {
+      "hostname": "dprn.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1586425555,
+  "expire_in": 157680000,
+  "prev": "a416ea0f79c4f5a676631c09180c42b2338c9ee7079139b73f91317a10b34a3a",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP/AnicbVNrbFRFFN7yaLCIViG0Qqxyg1hghZk7d+6jIYKBLSiBBCi2InQzM3du
+e2m7u91Hd0tbYwBBqJZgIFDkYRBBAUEqSsEXImCLFKjyiCkRiqjQwBa0lOKCOLdI
+TIzzZzJnvvOd73xn5mC/nq6UpL2tIWvajOxhSd8deCXiyq+J/1AhUb9ZLmVVSEW8
+e+PFJg+FvUW2KWVJAMoAcqpYJlUAV7g4MyhDpmNVJxhYBsAqUJEOkMkFgAAIVcM0
+oQZVU1UUBSLNAERyS5btK+DBQND2hQUtMzlFTJENwrmqYcWi2ISYQWpwqCFVxRAj
+RZVVkVjoDzkZQhwlIT7K9ouYOHi75f0P/r5uoUTETJUyqumYWdCQgazqVFYYgAwa
+CkcGQRrABjehyTWMNYicjhRKkUDwe7oj3XQmN0VzOtWxJvBYoUzWLaxjAnUTC2oH
+GOJBHynhDtoOEVrMTVIcKCRSlVsq4cGiYu4N+v1hx2EWth0cxLqqyBhjJLokoUJv
+CQ8TkY51heoyUaHKgUaQSgkWTloYmEADqq7KmBoawwRjLtQSWQaccgUruq5wCAkV
+YkK81OfvroB1DWtCQpCX+Yu4Uz1kFwjzQlLWy5Ih5ieMYBrXCJRlA+sGNg2VAUR1
+BViUcsKgqisGMoHONQQsphJGZYMrFKti2pY0p8qpFiyzWTe5M637LgSCvlEFdrgw
+Qu9NLRD0h/3MXyzuCsPhQCjLsSZcHnDAUU69/9B4qe0zxWsRGWU8GLL9PtGIQP7X
+NeyWeCxgB7nXdhBYU3UgllOHlwlKosBuiZrBhHlE1VQVQQYMqAPx8qiMkM4MzjWg
+GRAZVEOW2KEwAlCkEET+tRFBoZMUCE7hnY+EI0EuVR34enYvV1KKK7l3D+cbuVIe
+SL3/uTp2PXy3vIvN/Hzl5NjteOM37U+kJT6rq23BGe7ULdsX7mUDuo6Mji6bvSsz
+EKsltcXhpauOXWjNlPedTV8774aJGm/k7kj2jjics2bWVfn8vrOeuZdG2AtSS6+t
+jue8p2xc/vOWE73rPzh6fP6xPl3PuWbJFdcONlzdPT7S7rnz4JrL6zZG0blpaRvY
++d2vgispd5ufSr411tN5hYYnjbHdb2dvysPjO7Cv/9UtlwdP/6Jm6gvv9vuqdHPu
+8j2HZu7Y3OTZlHMi/fbr+ccHf5TYf3rd/AtPhhrruqrjYwdWrtQj8VVD1nkGJuo/
+bi/dqD17OmfCyRE7tyZig5rnutMjs/y7vBdjD8XR5qbfMuqWTonOmbBicXter8cT
+DVrV7HOVUxZNqui8vnfBtK49R4zoa++g7zO/rdh5M79rbPPIu0Yscebs4VOtDQcb
+az3eH2+yD0cutrNNb1Nqemtz3P9YNG3YfFffS21JHfW/onHLmv54tPKKVpQ89PrR
+PpPrWnPLytZnV2dcBOsnTlrUJm9f0TRmydZAzdSOxK2Rz7x059Sg4V/OGLIosr73
+zgH8kZpP3hh66Dpr+8la7WPW7sa/zruae7jTYvUN0Q2VuQuvjY7lTez3fATYMqze
+X/LnyZ5vtfTdlpGX2z8/b94vDW1npn/qdp3ztFSdWDtgcOeL1eXv//5mVvvyp12p
+meOUxduODV/Sebtl/99WmA4q
+=9Yom
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/disabledalpha
+
+==================================================================
+
