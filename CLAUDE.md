@@ -46,3 +46,9 @@ be mirrored there, in both CVs:
 5. Commit in `../CV/` (sources and both PDFs), then copy
    `../CV/cv_dario_prandi.pdf` to `docs/` here and commit it with the
    `index.html` change.
+
+## Profile photo
+
+`img/profile.jpg` (shown in a circle on `index.html` and `teaching.html`) is a
+600 × 600 copy of the CV photo `../CV/dario.jpg`. The crop is documented in
+`../CV/CLAUDE.md`. Change both together.
